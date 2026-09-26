@@ -3,11 +3,9 @@
 
 CLI tool for compressing media (Image, Video, Audio, GIF, PDF) with color display.
 
-## 👤 Developer
-
 ```
 
-name : @ExProject
+name developer : @ExProject
 
 ```
 
